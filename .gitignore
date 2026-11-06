@@ -1,0 +1,4 @@
+results.csv
+.env
+__pycache__/
+.venv/
