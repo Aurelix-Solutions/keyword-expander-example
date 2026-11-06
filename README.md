@@ -5,6 +5,10 @@
 
 A small, runnable example for [Google Autocomplete Scraper](https://apify.com/aurelix/google-autocomplete-scraper), an Apify Actor by Aurelix.
 
+[![Google Autocomplete API: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-autocomplete-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-autocomplete-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-autocomplete-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Google Autocomplete Scraper turns each seed keyword into hundreds of real search phrases from Google Search and YouTube autocomplete. It queries the seed on its own and with every modifier you pick (a to z, 0 to 9, question words such as how, what and why, and prepositions such as for, with, near and vs), for every country and language you list, then removes duplicates and tags each phrase's intent: question, commercial, local or comparison. Depth 2 re-queries each new suggestion for a long-tail tree.
